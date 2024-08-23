@@ -1,0 +1,17 @@
+# OpenCV para procesamiento de imágenes
+opencv-python
+
+# NumPy para operaciones matemáticas y arreglos
+numpy
+
+# TensorFlow (incluye Keras)
+tensorflow
+
+# Scikit-learn para métricas y visualización
+scikit-learn
+
+# Matplotlib para visualización de gráficos
+matplotlib
+
+# Flask para la creación de aplicaciones web
+flask
